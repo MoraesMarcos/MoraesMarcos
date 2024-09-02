@@ -5,7 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_marcosviiniii?igsh=dGp0bGFmcDZteHR6)
 
 ![Moraes GitHub stats](https://github-readme-stats.vercel.app/api?username=MoraesMarcos&show_icons=true&theme=tokyonight)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoraesMarcos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que uso no meu dia
