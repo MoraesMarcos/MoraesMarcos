@@ -9,14 +9,12 @@
 ## Tecnologias que uso no meu dia
 
 ## Prototipagem
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
 
 ## IDE
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />
@@ -27,7 +25,6 @@ ____________________________________
 </div><br/>
 
 ## Front-End
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,7 +32,6 @@ ____________________________________
 </div><br/>
 
 ## Back-End
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -46,7 +42,6 @@ ____________________________________
 </div><br/>
 
 ## Banco de dados
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -55,7 +50,6 @@ ____________________________________
 </div><br/>
 
 ## Plataformas de prototipagem
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -63,7 +57,6 @@ ____________________________________
 </div><br/>
 
 ## Gerenciamento
-____________________________________
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
