@@ -66,10 +66,10 @@
 </p>
 
 <div align="center">
-<br>
-<p><b>Contador de Visitantes</b></p>
-<p><img align="center" src="https://profile-counter.glitch.me/{MoraesMarcos}/count.svg" /></p>
-<br>
+  <br>
+  <p><b>Visitantes no Perfil</b></p>
+  <p><img src="https://komarev.com/ghpvc/?username=MoraesMarcos&style=flat&color=00bfbf" alt="contagem de visitantes" /></p>
+  <br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
