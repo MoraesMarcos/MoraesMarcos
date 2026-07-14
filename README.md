@@ -100,8 +100,8 @@ Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MoraesMarcos&show_icons=true&count_private=true&hide_border=true&title_color=00E5CC&icon_color=00E5CC&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoraesMarcos&layout=compact&hide_border=true&title_color=00E5CC&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MoraesMarcos&show_icons=true&count_private=true&hide_border=true&title_color=00E5CC&icon_color=00E5CC&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MoraesMarcos&layout=compact&hide_border=true&title_color=00E5CC&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 </div>
 
 <div align="center">
@@ -117,7 +117,7 @@ Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas
 ## 🏆 Troféus
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MoraesMarcos&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy-topaz.vercel.app/?username=MoraesMarcos&theme=onedark&no-bg=true&no-frame=true&row=1&column=7&margin-w=8" />
 </div>
 
 <br/>
