@@ -3,14 +3,21 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Marcos%20Moraes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20%7C%20Recife-PE&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00E5CC&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!;Dev+full-stack+%7C+Dados+%7C+Automação;Python+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+Node.js;Sempre+aprendendo+algo+novo+%3A%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00E5CC&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!;Dev+full-stack+%7C+Dados+%7C+Automação;Gestor+de+Tráfego+%40+Inteli+Company;Python+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+Node.js;Sempre+aprendendo+algo+novo+%3A%29" />
 </a>
 
 <br/>
 
 <img src="https://img.shields.io/badge/📍_Recife--PE-00bfbf?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/🎓_IFPE-ADS-00bfbf?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🏢_Inteli_Company-00bfbf?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/💼_Open_to_work-00bfbf?style=for-the-badge&labelColor=0d1117"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🇧🇷_Português-Nativo-00bfbf?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🇪🇸_Español-Intermedio-00bfbf?style=flat-square&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🇺🇸_English-Intermediário-00bfbf?style=flat-square&labelColor=0d1117"/>
 
 </div>
 
@@ -18,12 +25,39 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Trabalho no dia a dia com **desenvolvimento full-stack**, **dashboards de BI** e **automação de processos**, atuando em projetos reais que vão do backend em Spring Boot / Node.js até apps mobile em React Native, sempre com foco em resolver problemas de negócio com dados.
+Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Atuo na **Inteli Company** como **gestor de tráfego e desenvolvedor**, unindo performance de marketing digital com desenvolvimento de software — do backend em Spring Boot / Node.js até apps mobile em React Native, dashboards de BI e até projetos de hardware/IoT com machine learning.
 
-- 🔭 No momento desenvolvendo sistemas de gestão financeira e prevenção de perdas (ERP + BI + mobile)
+- 🔭 No momento desenvolvendo sistemas de gestão financeira, prevenção de perdas e automação comercial para o varejo (ERP + BI + mobile)
+- 📈 Gerencio tráfego pago e estratégias de aquisição na Inteli Company
+- 🔬 Também exploro projetos de IoT/ML aplicados à área médica (IoMT) e hardware embarcado
 - 🌱 Aprofundando conhecimento em arquitetura de dados e cloud (GCP)
-- 💬 Pergunte-me sobre Python, Java, React, Node.js ou modelagem de banco de dados
+- 💬 Pergunte-me sobre Python, Java, React, Node.js, tráfego pago ou modelagem de banco de dados
+- 🌎 Falo português, espanhol e inglês
 - ⚡ Curioso por natureza, gosto de transformar processos manuais em soluções automatizadas
+
+<br/>
+
+## 🚀 Projetos & Áreas de Atuação
+
+<details open>
+<summary><b>💻 Desenvolvimento de Software e Varejo</b></summary>
+<br/>
+
+- **Stack Tecnológico:** projetos com **Spring Boot**, **Vue.js**, **React Native** e **Supabase**.
+- **Automação Comercial:** funcionalidades para os projetos **SGRE** e **Gerente Virtual**, com foco em gestão de risco de validade e fidelização de clientes. Análises competitivas para o interior, mapeando concorrentes como os supermercados **Melhor Preço** e **Fênix**.
+- **Gestão Esportiva:** backend e modelagem de banco de dados para um software de gestão de artes marciais (dojo), organizando instrutores, alunos e treinos.
+
+</details>
+
+<details open>
+<summary><b>🔬 Hardware, IoT e Machine Learning</b></summary>
+<br/>
+
+- **Internet of Medical Things (IoMT):** detecção de quedas e reconhecimento facial em tempo real usando datasets como **VGGFace2** e **UR Fall Detection**, avaliando desempenho de modelos (**Gradient Boosting** e **Random Forest**) em plataformas ARM — trabalho que resultou em artigo aceito no **SBCUP 2026**.
+- **Microcontroladores e Eletrônica:** diagramas de circuito e firmware envolvendo **ESP32**, **Arduino**, **Raspberry Pi 5** e o chip de IA **Hailo-8**.
+- **Curso de Extensão:** planejamento pedagógico, plano de ensino e formulários do curso **"Arduino na Prática"** no IFPE Campus Palmares, incluindo definição de baterias 18650 e carregadores dentro do orçamento.
+
+</details>
 
 <br/>
 
@@ -52,6 +86,12 @@ Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas
 **Cloud, DevOps & Ferramentas**
 <br/>
 <img src="https://skillicons.dev/icons?i=gcp,git,github,gitlab,ubuntu,figma,vscode,docker&theme=dark" />
+
+<br/><br/>
+
+**Hardware & IoT**
+<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
 
 </div>
 
