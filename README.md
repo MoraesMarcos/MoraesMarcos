@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Marcos%20Moraes&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Análise%20e%20Desenvolvimento%20de%20Sistemas%20%7C%20Recife-PE&descAlignY=58&descSize=18"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=00E5CC&center=true&vCenter=true&width=650&lines=Bem-vindo(a)+ao+meu+perfil!;Dev+full-stack+%7C+Dados+%7C+Automação;Gestor+de+Tráfego+%40+Inteli+Company;Python+%E2%80%A2+Java+%E2%80%A2+React+%E2%80%A2+Node.js;Sempre+aprendendo+algo+novo+%3A%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1200&color=00E5CC&center=true&vCenter=true&width=680&lines=Transformo+processo+manual+em+solução+automatizada;Backend+%2B+Mobile+%2B+BI+%2B+Tráfego+pago;Do+c%C3%B3digo+ao+dado%2C+do+dado+%C3%A0+decis%C3%A3o;Gestor+de+Tráfego+%40+Inteli+Company;Sempre+aprendendo+algo+novo+%3A%29" />
 </a>
 
 <br/>
@@ -23,17 +23,47 @@
 
 <br/>
 
-## 👨‍💻 Sobre mim
+> *"Não escrevo código só pra funcionar — escrevo pra resolver um problema de negócio de verdade."*
 
-Tenho 24 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Atuo na **Inteli Company** como **gestor de tráfego e desenvolvedor**, unindo performance de marketing digital com desenvolvimento de software — do backend em Spring Boot / Node.js até apps mobile em React Native, dashboards de BI e até projetos de hardware/IoT com machine learning.
+<br/>
 
-- 🔭 No momento desenvolvendo sistemas de gestão financeira, prevenção de perdas e automação comercial para o varejo (ERP + BI + mobile)
-- 📈 Gerencio tráfego pago e estratégias de aquisição na Inteli Company
-- 🔬 Também exploro projetos de IoT/ML aplicados à área médica (IoMT) e hardware embarcado
-- 🌱 Aprofundando conhecimento em arquitetura de dados e cloud (GCP)
-- 💬 Pergunte-me sobre Python, Java, React, Node.js, tráfego pago ou modelagem de banco de dados
-- 🌎 Falo português, espanhol e inglês
-- ⚡ Curioso por natureza, gosto de transformar processos manuais em soluções automatizadas
+## 👋 Quem sou
+
+Tenho 24 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Hoje transito entre dois mundos que a maioria separa: **performance de marketing digital** e **engenharia de software**. Na **Inteli Company** sou gestor de tráfego e desenvolvedor — o que significa que penso tanto em CAC e conversão quanto em arquitetura de banco de dados e deploy.
+
+No dia a dia isso vira sistemas reais: ERPs de varejo que reduzem perda de validade, apps mobile que colocam essa informação na mão de quem está na loja, dashboards de BI que traduzem tudo isso em decisão — e, nas horas vagas, projetos de visão computacional e hardware embarcado que já viraram artigo científico aceito.
+
+<table align="center">
+<tr>
+<td align="center" width="140">🏬</td>
+<td><b>Varejo & Automação Comercial</b><br/>ERPs, controle de validade, fidelização de clientes</td>
+</tr>
+<tr>
+<td align="center">📈</td>
+<td><b>Tráfego Pago & Growth</b><br/>Aquisição, performance e estratégia digital na Inteli Company</td>
+</tr>
+<tr>
+<td align="center">📱</td>
+<td><b>Mobile & Full-Stack</b><br/>React Native, Spring Boot, Node.js, Supabase</td>
+</tr>
+<tr>
+<td align="center">🔬</td>
+<td><b>IoT & Machine Learning</b><br/>Visão computacional, detecção de quedas, hardware embarcado</td>
+</tr>
+</table>
+
+<br/>
+
+## 🧭 Minha trilha
+
+```text
+2022  ─  Início do curso de ADS no IFPE
+2023  ─  Primeiros projetos full-stack: Spring Boot + React
+2024  ─  Entrada no mercado como dev full-stack no varejo
+2025  ─  Gestor de Tráfego & Dev na Inteli Company
+2026  ─  Artigo aceito no SBCUP 2026 (IoMT + visão computacional)
+2026  ─  Explorando arquitetura de dados e cloud (GCP)
+```
 
 <br/>
 
@@ -49,13 +79,23 @@ Tenho 24 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas
 
 </details>
 
-<details open>
+<details>
 <summary><b>🔬 Hardware, IoT e Machine Learning</b></summary>
 <br/>
 
 - **Internet of Medical Things (IoMT):** detecção de quedas e reconhecimento facial em tempo real usando datasets como **VGGFace2** e **UR Fall Detection**, avaliando desempenho de modelos (**Gradient Boosting** e **Random Forest**) em plataformas ARM — trabalho que resultou em artigo aceito no **SBCUP 2026**.
 - **Microcontroladores e Eletrônica:** diagramas de circuito e firmware envolvendo **ESP32**, **Arduino**, **Raspberry Pi 5** e o chip de IA **Hailo-8**.
 - **Curso de Extensão:** planejamento pedagógico, plano de ensino e formulários do curso **"Arduino na Prática"** no IFPE Campus Palmares, incluindo definição de baterias 18650 e carregadores dentro do orçamento.
+
+</details>
+
+<details>
+<summary><b>📈 Tráfego Pago & Marketing de Performance</b></summary>
+<br/>
+
+- Gestão de campanhas e estratégias de aquisição para clientes da **Inteli Company**.
+- Ponte entre dados de produto e dados de marketing — uso o que aprendo em BI para tomar decisão de mídia com mais precisão.
+- Visão de funil completo: do clique à conversão dentro do próprio sistema que ajudo a construir.
 
 </details>
 
@@ -122,7 +162,17 @@ Tenho 24 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas
 
 <br/>
 
-## 🔗 Conecte-se comigo
+## 🐍 Minha semana em commits
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MoraesMarcos/MoraesMarcos/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+<br/>
+
+## 💬 Vamos trocar uma ideia?
+
+Curto conversar sobre produto de varejo, automação, tráfego pago ou aquele projeto maluco de hardware que ninguém mais quer discutir comigo às 23h. Se você chegou até aqui, já sabe onde me achar 👇
 
 <div align="center">
   <a href="https://www.instagram.com/marcosviniot/" target="_blank">
