@@ -74,7 +74,7 @@ No dia a dia isso vira sistemas reais: ERPs de varejo que reduzem perda de valid
 <br/>
 
 - **Stack Tecnológico:** projetos com **Spring Boot**, **Vue.js**, **React Native** e **Supabase**.
-- **Automação Comercial:** funcionalidades para os projetos **SGRE** e **Gerente Virtual**, com foco em gestão de risco de validade e fidelização de clientes. Análises competitivas para o interior, mapeando concorrentes como os supermercados **Melhor Preço** e **Fênix**.
+- **Automação Comercial:** funcionalidades para os projetos **SGRE** e **Gerente Virtual**, com foco em gestão de risco de validade e fidelização de clientes. Análises competitivas para o interior, mapeando concorrentes como os supermercados **Melhor Preço**.
 - **Gestão Esportiva:** backend e modelagem de banco de dados para um software de gestão de artes marciais (dojo), organizando instrutores, alunos e treinos.
 
 </details>
