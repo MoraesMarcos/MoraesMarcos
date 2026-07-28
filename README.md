@@ -23,7 +23,7 @@
 
 <br/>
 
-> *"Não escrevo código só pra funcionar — escrevo pra resolver um problema de negócio de verdade."*
+> *"Não escrevo código só pra funcionar, escrevo pra resolver um problema de negócio de verdade."*
 
 <br/>
 
