@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Tenho 23 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Atuo na **Inteli Company** como **gestor de tráfego e desenvolvedor**, unindo performance de marketing digital com desenvolvimento de software — do backend em Spring Boot / Node.js até apps mobile em React Native, dashboards de BI e até projetos de hardware/IoT com machine learning.
+Tenho 24 anos, sou de Recife-PE e curso **Análise e Desenvolvimento de Sistemas** no IFPE. Atuo na **Inteli Company** como **gestor de tráfego e desenvolvedor**, unindo performance de marketing digital com desenvolvimento de software — do backend em Spring Boot / Node.js até apps mobile em React Native, dashboards de BI e até projetos de hardware/IoT com machine learning.
 
 - 🔭 No momento desenvolvendo sistemas de gestão financeira, prevenção de perdas e automação comercial para o varejo (ERP + BI + mobile)
 - 📈 Gerencio tráfego pago e estratégias de aquisição na Inteli Company
