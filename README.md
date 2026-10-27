@@ -181,7 +181,7 @@ Curto conversar sobre produto de varejo, automação, tráfego pago ou aquele pr
   <a href="https://www.linkedin.com/in/marcosvmoraes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:markussvini01@gmail.com" target="_blank">
+  <a href="markussvini01@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
