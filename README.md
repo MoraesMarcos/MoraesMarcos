@@ -178,7 +178,7 @@ Curto conversar sobre produto de varejo, automação, tráfego pago ou aquele pr
   <a href="https://www.instagram.com/marcosviniot/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/marcosvmoraes/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:markussvini01@gmail.com" target="_blank">
